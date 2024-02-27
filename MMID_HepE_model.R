@@ -1,4 +1,4 @@
-setwd("C:/PAN/IHTM/MMID2023")
+
 
 library(deSolve)
 
